@@ -1,7 +1,7 @@
 # 2022-2023-engineering-notebook
 Engineering Notebook for 2022-2023 FTC Season
 # Tuesday 10/18/22
-Completing code for the claw control today and using a plastic chain to stabilize wires on our linear slide. We coded our arm to rotate 180 degrees, and
+Completing code for the claw control today and using a plastic chain to stabilize wires on our linear slide. We coded our arm to rotate 180 degrees, and got our claw to close. We noticed a problem with our slide coming down on a post supporting our control hub. We added a angled post to deflect the arm when it comes down. We noticed that the raised linear slide makes the robot very top heavy, and made the drive train wobble too much. We've thrown around the idea of putting weights on the bottom of the drive train. 
 # Saturday 10/15/22 (LCS hosted Build Day)
 Today we organized the wiring for our motors and slide and added some protection. One new member on the spot started learning code since we had no other members present who had coding knowledge. Three other things were also added today: our battery, Control Hub, and expansion Hub. When testing on the provided field, we noticed that the front wheels were turning against the back wheels, so the robot would not move. Sam worked on it and corrected it but did not have enough experience to get our claw arm to work. We also played a scrimmage match with a couple of other teams with functional drive trains and are the first team in FTC Mississippi this season to score a cone with a semi-functional robot. The only manual thing we had to manipulate was loading the cone into the claw.
 # Thursday 10/13/22
